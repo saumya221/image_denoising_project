@@ -1,0 +1,21 @@
+23-04-29 20:11:11.252 : Model path: model_zoo/dncnn_25.pth
+23-04-29 20:11:11.252 : Params number: 555137
+23-04-29 20:11:11.252 : model_name:dncnn_25, image sigma:25
+23-04-29 20:11:11.253 : testsets/tower
+23-04-29 20:11:17.683 : noisy.jpg - PSNR: 22.61 dB; SSIM: 0.6793.
+23-04-29 20:11:17.702 : Average PSNR/SSIM(RGB) - tower_dncnn_25 - PSNR: 22.61 dB; SSIM: 0.6793
+23-04-29 20:11:17.702 : Std Dev : PSNR: 0.00 dB; SSIM: 0.0000
+23-04-29 20:12:47.408 : Model path: model_zoo/dncnn_25.pth
+23-04-29 20:12:47.409 : Params number: 555137
+23-04-29 20:12:47.409 : model_name:dncnn_25, image sigma:25
+23-04-29 20:12:47.409 : testsets/tower
+23-04-29 20:12:53.752 : original.jpg - PSNR: 31.34 dB; SSIM: 0.8740.
+23-04-29 20:12:53.762 : Average PSNR/SSIM(RGB) - tower_dncnn_25 - PSNR: 31.34 dB; SSIM: 0.8740
+23-04-29 20:12:53.763 : Std Dev : PSNR: 0.00 dB; SSIM: 0.0000
+23-04-29 21:16:20.755 : Model path: model_zoo/dncnn_25.pth
+23-04-29 21:16:20.756 : Params number: 555137
+23-04-29 21:16:20.756 : model_name:dncnn_25, image sigma:25
+23-04-29 21:16:20.756 : testsets/tower
+23-04-29 21:16:25.321 : original.jpg - PSNR: 31.34 dB; SSIM: 0.8740.
+23-04-29 21:16:25.328 : Average PSNR/SSIM(RGB) - tower_dncnn_25 - PSNR: 31.34 dB; SSIM: 0.8740
+23-04-29 21:16:25.328 : Std Dev : PSNR: 0.00 dB; SSIM: 0.0000

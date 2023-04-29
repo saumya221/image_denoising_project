@@ -1,0 +1,14 @@
+23-04-29 21:17:33.892 : Model path: model_zoo/dncnn_color_blind.pth
+23-04-29 21:17:33.892 : Params number: 668227
+23-04-29 21:17:33.892 : model_name:dncnn_color_blind, image sigma:25
+23-04-29 21:17:33.892 : testsets/tower
+23-04-29 21:17:39.838 : original.jpg - PSNR: 33.18 dB; SSIM: 0.9108.
+23-04-29 21:17:39.857 : Average PSNR/SSIM(RGB) - tower_dncnn_color_blind - PSNR: 33.18 dB; SSIM: 0.9108
+23-04-29 21:17:39.857 : Std Dev : PSNR: 0.00 dB; SSIM: 0.0000
+23-04-29 21:26:52.647 : Model path: model_zoo/dncnn_color_blind.pth
+23-04-29 21:26:52.647 : Params number: 668227
+23-04-29 21:26:52.648 : model_name:dncnn_color_blind, image sigma:25
+23-04-29 21:26:52.648 : testsets/tower
+23-04-29 21:26:58.591 : original.jpg - PSNR: 33.18 dB; SSIM: 0.9108.
+23-04-29 21:26:58.610 : Average PSNR/SSIM(RGB) - tower_dncnn_color_blind - PSNR: 33.18 dB; SSIM: 0.9108
+23-04-29 21:26:58.611 : Std Dev : PSNR: 0.00 dB; SSIM: 0.0000

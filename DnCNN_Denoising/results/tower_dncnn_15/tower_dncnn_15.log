@@ -1,0 +1,7 @@
+23-04-29 20:10:52.898 : Model path: model_zoo/dncnn_15.pth
+23-04-29 20:10:52.899 : Params number: 555137
+23-04-29 20:10:52.899 : model_name:dncnn_15, image sigma:15
+23-04-29 20:10:52.899 : testsets/tower
+23-04-29 20:10:59.327 : noisy.jpg - PSNR: 25.59 dB; SSIM: 0.8557.
+23-04-29 20:10:59.343 : Average PSNR/SSIM(RGB) - tower_dncnn_15 - PSNR: 25.59 dB; SSIM: 0.8557
+23-04-29 20:10:59.344 : Std Dev : PSNR: 0.00 dB; SSIM: 0.0000
